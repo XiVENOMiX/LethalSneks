@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+    <tags>
+        <tag language="en" />
+    </tags>
+    <strings>
+        <UINotes text="Notes: " />
+        <UICauseOfDeath text="Cause of Death: " />
+
+        <FunnyNote text="The goofiest goober." />
+        <FunnyNote text="The cutest employee." />
+        <FunnyNote text="Had the most fun." />
+        <FunnyNote text="Had the least fun." />
+        <FunnyNote text="The bravest employee." />
+        <FunnyNote text="Did a sick flip." />
+        <FunnyNote text="Stubbed their toe." />
+        <FunnyNote text="The most likely to die next time." />
+        <FunnyNote text="The least likely to die next time." />
+        <FunnyNote text="Dislikes smoke." />
+        <FunnyNote text="A team player." />
+        <FunnyNote text="A real go-getter." />
+        <FunnyNote text="Ate the most snacks." />
+        <FunnyNote text="Passed GO and collected $200." />
+        <FunnyNote text="Got freaky on a Friday night." />
+        <FunnyNote text="I think this one's a serial killer." />
+        <FunnyNote text="Perfectly unremarkable." />
+        <FunnyNote text="Hasn't called their mother in a while." />
+        <FunnyNote text="Has IP address 127.0.0.1." />
+        <FunnyNote text="Secretly a lizard." />
+        <FunnyNote text="Collected the most parasites." />
+        <FunnyNote text="Contracted Ticklebritch." />
+        <FunnyNote text="Was too cheap to pay attention." />
+        <FunnyNote text="Is articulate." />
+        <FunnyNote text="Said the most slurs." />
+        <FunnyNote text="Left something important behind..." />
+        <FunnyNote text="Invoked the wrath of Sithis." />
+        <FunnyNote text="Might be fired next." />
+        <FunnyNote text="Voted least useless." />
+        <FunnyNote text="Was caught spankin' it." />
+        <FunnyNote text="Farted and thought no one would notice." />
+        <FunnyNote text="Star Powered!" />
+        <FunnyNote text="Spotted the most walls." />
+        <FunnyNote text="Should check their left pocket." />
+        <FunnyNote text="Lost the game." />
+        <FunnyNote text="New High Score!." />
+        <FunnyNote text="Found at least [MISSING_VALUE] Doors!" />
+        <FunnyNote text="Located a Pumpkin." />
+        <FunnyNote text="Is scared of dark rooms." />
+        <FunnyNote text="Should bring more keys next time." />
+        <FunnyNote text="Did not find Bigfoot." />
+        <FunnyNote text="Wasn’t ‘told’ it was an Eclipse." />
+        <FunnyNote text="Wants to go see an Eclipse." />
+        <FunnyNote text="Wants to go experience a Storm." />
+        <FunnyNote text="Wants to go play in the Rain." />
+        <FunnyNote text="Wants to wander in the Fog." />
+        <FunnyNote text="Wishes for clear skies..." />
+        <FunnyNote text="Came on through like: FUCK! WHAT WAS THAT!?" />
+        <FunnyNote text="Is feeling it now." />
+        <FunnyNote text="Is itching for a fight." />
+
+        <DeathBludgeoning text="Bludgeoned to death." />
+        <DeathBludgeoning text="Bonked too hard." />
+
+        <DeathGravity text="Fell to their death." />
+        <DeathGravity text="Fell off a cliff." />
+        <DeathGravity text="Didn't bounce." />
+        <DeathGravity text="Parkour." />
+        <DeathGravity text="Made out with the ground." />
+        <DeathGravity text="Took a short walk off a long pier." />
+
+        <DeathBlast text="Exploded." />
+        <DeathBlast text="Went out with a bang." />
+        <DeathBlast text="Was blown to smithereens." />
+
+        <DeathStrangulation text="Strangled to death." />
+
+        <DeathSuffocation text="Suffocated to death." />
+
+        <DeathMauling text="Mauled to death." />
+        <DeathMauling text="Got eatin' out." />
+
+        <DeathGunshots text="Shot to death." />
+        <DeathGunshots text="Filled to the brim with bullets." />
+
+        <DeathCrushing text="Crushed to death." />
+
+        <DeathDrowning text="Drowned to death." />
+        <DeathDrowning text="Forgot they ate a Devil Fruit." />
+        <DeathDrowning text="Didn't kick hard enough." />
+        <DeathDrowning text="Swam like a brick." />
+        <DeathDrowning text="Really felt like an astronaut in the ocean." />
+        <DeathDrowning text="Took a long walk off a short pier." />
+
+        <DeathAbandoned text="Abandoned by their coworkers." />
+        <DeathAbandoned text="Woke up in the back of a wagon." />
+        <DeathAbandoned text="Got abducted by aliens." />
+        <DeathAbandoned text="Was deemed unnecessary." />
+        <DeathAbandoned text="Went sight seeing." />
+        <DeathAbandoned text="Knew where they were going." />
+        <DeathAbandoned text="Got snatched by the Cave Boogle." />
+        <DeathAbandoned text="Went sight seeing." />
+        <DeathAbandoned text="Walked off into the sunset..." />
+        <DeathAbandoned text="Needs a new watch battery." />
+        <DeathAbandoned text="Took a short pier on a long walk." />
+
+        <DeathElectrocution text="Electrocuted to death." />
+
+        <DeathKicking text="Kicked to death." />
+
+        <DeathEnemyBracken text="Had their neck snapped by a Bradley." />
+        <DeathEnemyBracken text="Stared at Bradley too long." />
+        <DeathEnemyBracken text="Was caught playin'." />
+        <DeathEnemyBracken text="Got in Bradley's way, on his date with Becky." />
+		
+        <DeathEnemyEyelessDog text="Was eaten by an Eyeless Dog." />
+        <DeathEnemyEyelessDog text="Got caught using a mechanical keyboard." />
+        <DeathEnemyEyelessDog text="Wasn't quiet around an Eyeless Dog." />
+        <DeathEnemyEyelessDog text="Didn't use Push-To-Talk." />
+        <DeathEnemyEyelessDog text="Tried to pet that dawg." />
+        <DeathEnemyEyelessDog text="Found out what the dog was doin'." />
+
+        <DeathEnemyForestGiant text="Swallowed whole by a Forest Giant." />
+        <DeathEnemyForestGiant text="Tasted pretty good." />
+        <DeathEnemyForestGiant text="Tasted kinda terrible." />
+
+        <DeathEnemyCircuitBees text="Electro-stung to death by Circuit Bees." />
+        <DeathEnemyCircuitBees text="BEEEEEEEEEEEEEEEEEES!" />
+        <DeathEnemyCircuitBees text="Found out they didn't like jazz the hard way." />
+
+        <DeathEnemyGhostGirl text="Died a mysterious death." />
+        <DeathEnemyGhostGirl text="Lost their mind." />
+        <DeathEnemyGhostGirl text="Got a real bad headache." />
+        <DeathEnemyGhostGirl text="???" />
+        <DeathEnemyGhostGirl text="Didn't get on the cabinet fast enough." />
+
+        <DeathEnemyEarthLeviathan text="Swallowed whole by an Earth Leviathan." />
+        <DeathEnemyEarthLeviathan text="It was an Alaskan Bull Worm!" />
+        <DeathEnemyEarthLeviathan text="Has never seen the movie Tremors." />
+
+        <DeathEnemyBaboonHawk text="Was eaten by a Baboon Hawk." />
+        <DeathEnemyBaboonHawk text="Was mauled by a Baboon Hawk." />
+        <DeathEnemyBaboonHawk text="Stepped into the wrong neighborhood." />
+
+        <DeathEnemyJester text="Mauled to death by a Jester." />
+        <DeathEnemyJester text="Was the butt of the Jester's joke." />
+        <DeathEnemyJester text="Got pranked by the Jester." />
+        <DeathEnemyJester text="Got popped like a weasel." />
+        <DeathEnemyJester text="Was caught crankin'." />
+
+        <DeathEnemyCoilHead text="Mauled to death by a Coil Head." />
+        <DeathEnemyCoilHead text="Got in a staring contest with a Coil Head." />
+        <DeathEnemyCoilHead text="Lost a staring contest with a Coil Head." />
+        <DeathEnemyCoilHead text="Tried to slap the Coil Booty." />
+
+        <DeathEnemySnareFlea text="Was suffocated by a Snare Flea." />
+        <DeathEnemySnareFlea text="Found a new scarf." />
+        <DeathEnemySnareFlea text="Made out with a centipede." />
+
+        <DeathEnemyHygrodere text="Was absorbed by a Hygrodere." />
+        <DeathEnemyHygrodere text="Got lost in the sauce." />
+        <DeathEnemyHygrodere text="Had an oopsie with a Hygrodere." />
+
+        <DeathEnemyHoarderBug text="Was mauled by a Hoarder Bug." />
+        <DeathEnemyHoarderBug text="Was swarmed by a Hoarder Bug." />
+        <DeathEnemyHoarderBug text="Was hoarded by a Hoarder Bug." />
+        <DeathEnemyHoarderBug text="Tried to steal from a Hoarder Bug." />
+        <DeathEnemyHoarderBug text="YIPPPEEEEEEEEEEEE!" />
+
+        <DeathEnemySporeLizard text="Was bitten by Bongy." />
+        <DeathEnemySporeLizard text="Was puffed by Bongy." />
+
+        <DeathEnemyBunkerSpider text="Ensnared in the Bunker Spider's web." />
+        <DeathEnemyBunkerSpider text="Was wrapped up in some sticky business." />
+        <DeathEnemyBunkerSpider text="Lost a wrap battle with a Spider." />
+
+        <DeathEnemyThumper text="Was ravaged by a Thumper." />
+        <DeathEnemyThumper text="Got thumped by a Thumper." />
+        <DeathEnemyThumper text="Got caught by a Thumper lookin' for BEANS." />
+
+        <DeathEnemyMaskedPlayerWear text="Donned the Mask." />
+        <DeathEnemyMaskedPlayerWear text="Nobody cared who they were until they put on the Mask." />
+
+        <DeathEnemyMaskedPlayerVictim text="Was killed by a Masked coworker." />
+        <DeathEnemyMaskedPlayerVictim text="Became a tragedy at the hands of the Mask." />
+
+        <DeathEnemyNutcrackerKicked text="Was kicked to death by a Nutcracker." />
+        <DeathEnemyNutcrackerKicked text="Got their nuts cracked by a Nutcracker." />
+
+        <DeathEnemyNutcrackerShot text="Got shot by a Nutcracker." />
+        <DeathEnemyNutcrackerShot text="Was at the wrong end of a 21-gun salute." />
+
+        <DeathPlayerJetpackGravity text="Fell while using a jetpack." />
+        <DeathPlayerJetpackGravity text="Flew too close to the sun." />
+        <DeathPlayerJetpackGravity text="Ran out of fuel." />
+
+        <DeathPlayerJetpackBlast text="Blew up while using a Jetpack." />
+        <DeathPlayerJetpackBlast text="Turned into a firework." />
+
+        <DeathPlayerMurderMelee text="Was bludgeoned to death by a coworker." />
+        <DeathPlayerMurderMelee text="Was the victim of a murder." />
+        <DeathPlayerMurderMelee text="Got murdered." />
+        <DeathPlayerMurderMelee text="Got backstabbed by a coworker." />
+
+        <DeathPlayerMurderShotgun text="Was shot to death by a coworker." />
+        <DeathPlayerMurderShotgun text="Was the victim of a murder." />
+        <DeathPlayerMurderShotgun text="Got murdered." />
+        <DeathPlayerMurderShotgun text="Got one-pumped by a coworker." />
+        <DeathPlayerMurderShotgun text="Got 360-noscoped by a coworker." />
+
+        <DeathPlayerQuicksand text="Got stuck in quicksand." />
+        <DeathPlayerQuicksand text="Drowned in quicksand." />
+        <DeathPlayerQuicksand text="Took a mud bath." />
+
+        <DeathPlayerStunGrenade text="Got flashbanged by a coworker." />
+        <DeathPlayerStunGrenade text="Was the victim of a murder." />
+
+        <DeathOtherDepositItemsDesk text="Received a demotion." />
+        <DeathOtherDepositItemsDesk text="Was put on disciplinary leave." />
+        <DeathOtherDepositItemsDesk text="Wasn't worth much." />
+
+        <DeathOtherItemDropship text="Was crushed by the Item Dropship." />
+        <DeathOtherItemDropship text="Couldn't wait for their array." />
+        <DeathOtherItemDropship text="Got too impatient for their array." />
+        <DeathOtherItemDropship text="Got hit by the bus." />
+
+        <DeathOtherLandmine text="Stepped on a landmine." />
+
+        <DeathOtherTurret text="Got shot by a turret." />
+        <DeathOtherTurret text="Scored low on the Aperture Science Test." />
+        <DeathOtherTurret text="Forgot this was a live fire exercise." />
+        <DeathOtherTurret text="More gun." />
+
+        <DeathOtherLightning text="Was struck by lightning." />
+        <DeathOtherLightning text="It struck twice." />
+        <DeathOtherLightning text="They weren't made of rubber." />
+
+        <DeathUnknown text="Died somehow." />
+        <DeathUnknown text="Most sincerely dead." />
+        <DeathUnknown text="Expired in an inexplicable manner." />
+        <DeathUnknown text="Was killed by the Guardians." />
+        <DeathUnknown text="Misadventure." />
+        <DeathUnknown text="Mistakes were made." />
+    </strings>
+</base>
