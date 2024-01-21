@@ -68,6 +68,7 @@
         <DeathGravity text="Parkour." />
         <DeathGravity text="Made out with the ground." />
         <DeathGravity text="Took a short walk off a long pier." />
+        <DeathGravity text="Hit the griddy too hard." />
 
         <DeathBlast text="Exploded." />
         <DeathBlast text="Went out with a bang." />
@@ -177,6 +178,7 @@
         <DeathEnemyThumper text="Was ravaged by a Thumper." />
         <DeathEnemyThumper text="Got thumped by a Thumper." />
         <DeathEnemyThumper text="Got caught by a Thumper lookin' for BEANS." />
+        <DeathEnemyThumper text="Was clapped by a Thumper." />
 
         <DeathEnemyMaskedPlayerWear text="Donned the Mask." />
         <DeathEnemyMaskedPlayerWear text="Nobody cared who they were until they put on the Mask." />
@@ -186,9 +188,12 @@
 
         <DeathEnemyNutcrackerKicked text="Was kicked to death by a Nutcracker." />
         <DeathEnemyNutcrackerKicked text="Got their nuts cracked by a Nutcracker." />
+        <DeathEnemyNutcrackerKicked text="Was decked in the halls." />
 
         <DeathEnemyNutcrackerShot text="Got shot by a Nutcracker." />
         <DeathEnemyNutcrackerShot text="Was at the wrong end of a 21-gun salute." />
+        <DeathEnemyNutcrackerShot text="Was decked all over the halls." />
+        <DeathEnemyNutcrackerShot text="Yee'd their last haw." />
 
         <DeathPlayerJetpackGravity text="Fell while using a jetpack." />
         <DeathPlayerJetpackGravity text="Flew too close to the sun." />
