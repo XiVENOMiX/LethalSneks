@@ -58,6 +58,10 @@
         <FunnyNote text="Came on through like: FUCK! WHAT WAS THAT!?" />
         <FunnyNote text="Is feeling it now." />
         <FunnyNote text="Is itching for a fight." />
+        <FunnyNote text="Got that DAWG in 'em." />
+        <FunnyNote text="Currently fighting demons." />
+        <FunnyNote text="Enjoys pancakes." />
+        <FunnyNote text="Enjoys waffles." />
 
         <DeathBludgeoning text="Bludgeoned to death." />
         <DeathBludgeoning text="Bonked too hard." />
@@ -79,7 +83,7 @@
         <DeathSuffocation text="Suffocated to death." />
 
         <DeathMauling text="Mauled to death." />
-        <DeathMauling text="Got eatin' out." />
+        <DeathMauling text="Got eaten out." />
 
         <DeathGunshots text="Shot to death." />
         <DeathGunshots text="Filled to the brim with bullets." />
@@ -104,6 +108,7 @@
         <DeathAbandoned text="Walked off into the sunset..." />
         <DeathAbandoned text="Needs a new watch battery." />
         <DeathAbandoned text="Took a short pier on a long walk." />
+        <DeathAbandoned text="Got taken by goths." />
 
         <DeathElectrocution text="Electrocuted to death." />
 
@@ -113,6 +118,7 @@
         <DeathEnemyBracken text="Stared at Bradley too long." />
         <DeathEnemyBracken text="Was caught playin'." />
         <DeathEnemyBracken text="Got in Bradley's way, on his date with Becky." />
+        <DeathEnemyBracken text="Bradley didn't want to go to marriage couseling." />
 		
         <DeathEnemyEyelessDog text="Was eaten by an Eyeless Dog." />
         <DeathEnemyEyelessDog text="Got caught using a mechanical keyboard." />
@@ -179,6 +185,7 @@
         <DeathEnemyThumper text="Got thumped by a Thumper." />
         <DeathEnemyThumper text="Got caught by a Thumper lookin' for BEANS." />
         <DeathEnemyThumper text="Was clapped by a Thumper." />
+        <DeathEnemyThumper text="Got their ankles taken by a Thumper." />
 
         <DeathEnemyMaskedPlayerWear text="Donned the Mask." />
         <DeathEnemyMaskedPlayerWear text="Nobody cared who they were until they put on the Mask." />
@@ -194,6 +201,7 @@
         <DeathEnemyNutcrackerShot text="Was at the wrong end of a 21-gun salute." />
         <DeathEnemyNutcrackerShot text="Was decked all over the halls." />
         <DeathEnemyNutcrackerShot text="Yee'd their last haw." />
+        <DeathEnemyNutcrackerShot text="Drexed then Sklounced." />
 
         <DeathPlayerJetpackGravity text="Fell while using a jetpack." />
         <DeathPlayerJetpackGravity text="Flew too close to the sun." />
@@ -225,8 +233,8 @@
         <DeathOtherDepositItemsDesk text="Wasn't worth much." />
 
         <DeathOtherItemDropship text="Was crushed by the Item Dropship." />
-        <DeathOtherItemDropship text="Couldn't wait for their array." />
-        <DeathOtherItemDropship text="Got too impatient for their array." />
+        <DeathOtherItemDropship text="Couldn't wait for their items." />
+        <DeathOtherItemDropship text="Got too impatient for their items." />
         <DeathOtherItemDropship text="Got hit by the bus." />
 
         <DeathOtherLandmine text="Stepped on a landmine." />
@@ -235,6 +243,7 @@
         <DeathOtherTurret text="Scored low on the Aperture Science Test." />
         <DeathOtherTurret text="Forgot this was a live fire exercise." />
         <DeathOtherTurret text="More gun." />
+        <DeathOtherTurret text="Picked the wrong house, fool." />
 
         <DeathOtherLightning text="Was struck by lightning." />
         <DeathOtherLightning text="It struck twice." />
@@ -246,5 +255,6 @@
         <DeathUnknown text="Was killed by the Guardians." />
         <DeathUnknown text="Misadventure." />
         <DeathUnknown text="Mistakes were made." />
+        <DeathUnknown text="Had no plan." />
     </strings>
 </base>
